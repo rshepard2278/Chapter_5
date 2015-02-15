@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ radius\ rect\ boxColor\ canvas
+comment0.target=BoxBall(int,\ int,\ int,\ java.awt.Rectangle,\ java.awt.Color,\ Canvas)
+comment1.params=
+comment1.target=void\ draw()
+comment2.params=
+comment2.target=void\ erase()
+comment3.params=
+comment3.target=void\ move()
+numComments=4
